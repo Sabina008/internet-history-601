@@ -3,3 +3,4 @@
 
 Created F Layout and Z Layout
    - Created and updated About page
+   - Created and updated Home page
