@@ -6,3 +6,5 @@ Created F Layout and Z Layout
       - Modified text, images, font, spacing, indentation, lines, bold text, location
    - Created and updated Home page
       - Modified text, images, font, spacing, indentation, lines, bold text, location
+   - Added images to web pages
+      - Modified location of images
